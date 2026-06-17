@@ -1,4 +1,4 @@
-package ExamRecuSonorama.Controller;
+package ColeccionesProg.src.main.java.ExamRecuSonorama.Controller;
 
 
 import ExamRecuSonorama.Exception.MiException;
