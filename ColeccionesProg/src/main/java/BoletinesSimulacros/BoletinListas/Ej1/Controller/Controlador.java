@@ -1,11 +1,11 @@
-package BoletinesSimulacros.BoletinListas.Ej1.Controller;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Controller;
 
 
-import BoletinesSimulacros.BoletinListas.Ej1.Exception.EstudianteNoEncontradoException;
-import BoletinesSimulacros.BoletinListas.Ej1.Exception.GrupoNoEncontradoException;
-import BoletinesSimulacros.BoletinListas.Ej1.Models.Estudiante;
-import BoletinesSimulacros.BoletinListas.Ej1.Models.Grupo;
-import BoletinesSimulacros.BoletinListas.Ej1.Models.Instituto;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Exception.EstudianteNoEncontradoException;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Exception.GrupoNoEncontradoException;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Models.Estudiante;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Models.Grupo;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Models.Instituto;
 
 import java.util.Scanner;
 

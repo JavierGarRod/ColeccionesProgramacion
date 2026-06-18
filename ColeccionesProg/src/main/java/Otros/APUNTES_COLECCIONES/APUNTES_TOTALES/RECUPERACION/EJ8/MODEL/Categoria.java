@@ -1,0 +1,5 @@
+package ColeccionesProg.src.main.java.Otros.APUNTES_COLECCIONES.APUNTES_TOTALES.RECUPERACION.EJ8.MODEL;
+
+public enum Categoria {
+    NOVELA,CIENCIA,HISTORIA,INFANTIL
+}

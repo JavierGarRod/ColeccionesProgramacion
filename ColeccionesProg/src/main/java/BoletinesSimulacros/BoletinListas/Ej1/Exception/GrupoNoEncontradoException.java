@@ -1,4 +1,4 @@
-package BoletinesSimulacros.BoletinListas.Ej1.Exception;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Exception;
 
 // Excepción cuando un grupo no existe en el instituto
 public class GrupoNoEncontradoException extends Exception {

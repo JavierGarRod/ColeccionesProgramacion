@@ -1,4 +1,4 @@
-package BoletinesSimulacros.BoletinListas.Ej1.Models;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Models;
 
 public class Horario {
 

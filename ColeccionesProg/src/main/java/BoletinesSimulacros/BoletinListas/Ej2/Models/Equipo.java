@@ -1,7 +1,7 @@
-package BoletinesSimulacros.BoletinListas.Ej2.Models;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej2.Models;
 
 
-import BoletinesSimulacros.BoletinListas.Ej2.Exception.DeportivosException;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej2.Exception.DeportivosException;
 
 import java.util.ArrayList;
 import java.util.List;

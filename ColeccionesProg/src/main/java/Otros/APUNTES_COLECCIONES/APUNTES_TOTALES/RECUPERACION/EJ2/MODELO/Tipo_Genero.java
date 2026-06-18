@@ -1,0 +1,5 @@
+package ColeccionesProg.src.main.java.Otros.APUNTES_COLECCIONES.APUNTES_TOTALES.RECUPERACION.EJ2.MODELO;
+
+public enum  Tipo_Genero {
+    ACCION, COMEDIA, DRAMA,TERROR, CIENCIA_FICCION
+}

@@ -1,8 +1,8 @@
-package BoletinesSimulacros.BoletinListas.Ej2.Controller;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej2.Controller;
 
-import BoletinesSimulacros.BoletinListas.Ej2.Exception.DeportivosException;
-import BoletinesSimulacros.BoletinListas.Ej2.Models.Alumno;
-import BoletinesSimulacros.BoletinListas.Ej2.Models.Equipo;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej2.Exception.DeportivosException;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej2.Models.Alumno;
+import ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej2.Models.Equipo;
 
 public class Controlador {
 

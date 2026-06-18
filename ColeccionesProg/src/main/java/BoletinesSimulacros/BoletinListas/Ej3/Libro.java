@@ -1,4 +1,4 @@
-package BoletinesSimulacros.BoletinListas.Ej3;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej3;
 
 import java.time.LocalDate;
 import java.util.Objects;

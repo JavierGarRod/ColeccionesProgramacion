@@ -1,4 +1,4 @@
-package BoletinesSimulacros.BoletinListas.Ej1.Exception;
+package ColeccionesProg.src.main.java.BoletinesSimulacros.BoletinListas.Ej1.Exception;
 
 public class EstudianteNoEncontradoException extends Exception {
     public EstudianteNoEncontradoException(String msg) {
