@@ -1,4 +1,4 @@
-package BoletinListas.Ej1.Models;
+package BoletinesSimulacros.BoletinListas.Ej1.Models;
 
 public class Horario {
 

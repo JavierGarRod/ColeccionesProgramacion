@@ -1,4 +1,4 @@
-package BoletinListas.Ej1.Exception;
+package BoletinesSimulacros.BoletinListas.Ej1.Exception;
 
 // Excepción cuando un grupo no existe en el instituto
 public class GrupoNoEncontradoException extends Exception {

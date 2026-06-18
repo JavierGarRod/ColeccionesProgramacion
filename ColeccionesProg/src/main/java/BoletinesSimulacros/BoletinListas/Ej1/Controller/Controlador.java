@@ -1,11 +1,11 @@
-package BoletinListas.Ej1.Controller;
+package BoletinesSimulacros.BoletinListas.Ej1.Controller;
 
 
-import BoletinListas.Ej1.Exception.EstudianteNoEncontradoException;
-import BoletinListas.Ej1.Exception.GrupoNoEncontradoException;
-import BoletinListas.Ej1.Models.Estudiante;
-import BoletinListas.Ej1.Models.Grupo;
-import BoletinListas.Ej1.Models.Instituto;
+import BoletinesSimulacros.BoletinListas.Ej1.Exception.EstudianteNoEncontradoException;
+import BoletinesSimulacros.BoletinListas.Ej1.Exception.GrupoNoEncontradoException;
+import BoletinesSimulacros.BoletinListas.Ej1.Models.Estudiante;
+import BoletinesSimulacros.BoletinListas.Ej1.Models.Grupo;
+import BoletinesSimulacros.BoletinListas.Ej1.Models.Instituto;
 
 import java.util.Scanner;
 

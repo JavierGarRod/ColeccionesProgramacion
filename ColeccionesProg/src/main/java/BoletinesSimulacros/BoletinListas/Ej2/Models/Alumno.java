@@ -1,4 +1,4 @@
-package BoletinListas.Ej2.Models;
+package BoletinesSimulacros.BoletinListas.Ej2.Models;
 
 import java.util.Objects;
 

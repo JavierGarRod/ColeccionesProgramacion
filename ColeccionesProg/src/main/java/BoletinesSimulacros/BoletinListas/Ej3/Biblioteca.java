@@ -1,4 +1,4 @@
-package BoletinListas.Ej3;
+package BoletinesSimulacros.BoletinListas.Ej3;
 
 import java.util.List;
 
